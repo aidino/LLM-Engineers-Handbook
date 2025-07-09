@@ -199,7 +199,7 @@ As our task manager, we run all the scripts using [Poe the Poet](https://poethep
 1. Start a Poetry shell:
 
 ```bash
-poetry shell
+poetry env activate
 ```
 
 2. Run project commands using Poe the Poet:
